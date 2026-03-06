@@ -1,0 +1,392 @@
+
+*************************
+Welcome to Pokémon World!
+*************************
+A player has been created!
+Pikachu moves to Buffalo
+
+*************************
+What would you like to do?
+1. Look around
+2. Pick up an item
+3. Delete an item
+4. Attack an enemy
+5. View inventory
+6. Move to another place
+7. Quit
+*************************
+Enter choice: 
+In Buffalo,
+- Items:
+  - Aux Power: Sharply boosts the offensive stats of a Pokémon during a battle.
+- Enemies:
+  - Arbok (Health: 30, Attack Power: 15)
+  - Weezing (Health: 50, Attack Power: 30)
+
+*************************
+What would you like to do?
+1. Look around
+2. Pick up an item
+3. Delete an item
+4. Attack an enemy
+5. View inventory
+6. Move to another place
+7. Quit
+*************************
+Enter choice: 
+Choose an item to pick up (0 to cancel): 
+1. Aux Power
+Pikachu picks up Aux Power.
+
+*************************
+What would you like to do?
+1. Look around
+2. Pick up an item
+3. Delete an item
+4. Attack an enemy
+5. View inventory
+6. Move to another place
+7. Quit
+*************************
+Enter choice: 
+Inventory:
+- 1. Aux Power: Sharply boosts the offensive stats of a Pokémon during a battle.
+
+*************************
+What would you like to do?
+1. Look around
+2. Pick up an item
+3. Delete an item
+4. Attack an enemy
+5. View inventory
+6. Move to another place
+7. Quit
+*************************
+Enter choice: 
+In Buffalo,
+- No items.
+- Enemies:
+  - Arbok (Health: 30, Attack Power: 15)
+  - Weezing (Health: 50, Attack Power: 30)
+
+*************************
+What would you like to do?
+1. Look around
+2. Pick up an item
+3. Delete an item
+4. Attack an enemy
+5. View inventory
+6. Move to another place
+7. Quit
+*************************
+Enter choice: 
+Choose an enemy to attack (0 to cancel): 
+1. Arbok
+2. Weezing
+Pikachu attacks Arbok with power 20
+Arbok has 10 health left.
+Pikachu has been attacked with power 15
+Pikachu has 185 health left.
+
+*************************
+What would you like to do?
+1. Look around
+2. Pick up an item
+3. Delete an item
+4. Attack an enemy
+5. View inventory
+6. Move to another place
+7. Quit
+*************************
+Enter choice: 
+Choose an enemy to attack (0 to cancel): 
+1. Arbok
+2. Weezing
+Pikachu attacks Arbok with power 20
+Arbok has been defeated!
+
+*************************
+What would you like to do?
+1. Look around
+2. Pick up an item
+3. Delete an item
+4. Attack an enemy
+5. View inventory
+6. Move to another place
+7. Quit
+*************************
+Enter choice: 
+In Buffalo,
+- No items.
+- Enemies:
+  - Weezing (Health: 50, Attack Power: 30)
+
+*************************
+What would you like to do?
+1. Look around
+2. Pick up an item
+3. Delete an item
+4. Attack an enemy
+5. View inventory
+6. Move to another place
+7. Quit
+*************************
+Enter choice: 
+Choose an enemy to attack (0 to cancel): 
+1. Weezing
+Pikachu attacks Weezing with power 20
+Weezing has 30 health left.
+Pikachu has been attacked with power 30
+Pikachu has 155 health left.
+
+*************************
+What would you like to do?
+1. Look around
+2. Pick up an item
+3. Delete an item
+4. Attack an enemy
+5. View inventory
+6. Move to another place
+7. Quit
+*************************
+Enter choice: 
+Choose an enemy to attack (0 to cancel): 
+1. Weezing
+Pikachu attacks Weezing with power 20
+Weezing has 10 health left.
+Pikachu has been attacked with power 30
+Pikachu has 125 health left.
+
+*************************
+What would you like to do?
+1. Look around
+2. Pick up an item
+3. Delete an item
+4. Attack an enemy
+5. View inventory
+6. Move to another place
+7. Quit
+*************************
+Enter choice: 
+Choose an enemy to attack (0 to cancel): 
+1. Weezing
+Pikachu attacks Weezing with power 20
+Weezing has been defeated!
+
+*************************
+What would you like to do?
+1. Look around
+2. Pick up an item
+3. Delete an item
+4. Attack an enemy
+5. View inventory
+6. Move to another place
+7. Quit
+*************************
+Enter choice: 
+In Buffalo,
+- No items.
+- No enemies.
+
+*************************
+What would you like to do?
+1. Look around
+2. Pick up an item
+3. Delete an item
+4. Attack an enemy
+5. View inventory
+6. Move to another place
+7. Quit
+*************************
+Enter choice: 
+Choose a place to move to (0 to cancel): 
+1. Rochester
+Pikachu moves to Rochester
+
+*************************
+What would you like to do?
+1. Look around
+2. Pick up an item
+3. Delete an item
+4. Attack an enemy
+5. View inventory
+6. Move to another place
+7. Quit
+*************************
+Enter choice: 
+In Rochester,
+- Items:
+  - Berry Juice: Restores 20 health.
+  - Aspear Berry: If held by a Pokémon, it defrosts it.
+- No enemies.
+
+*************************
+What would you like to do?
+1. Look around
+2. Pick up an item
+3. Delete an item
+4. Attack an enemy
+5. View inventory
+6. Move to another place
+7. Quit
+*************************
+Enter choice: 
+Choose an item to pick up (0 to cancel): 
+1. Berry Juice
+2. Aspear Berry
+Pikachu picks up Berry Juice.
+
+*************************
+What would you like to do?
+1. Look around
+2. Pick up an item
+3. Delete an item
+4. Attack an enemy
+5. View inventory
+6. Move to another place
+7. Quit
+*************************
+Enter choice: 
+Choose an item to pick up (0 to cancel): 
+1. Aspear Berry
+Pikachu picks up Aspear Berry.
+
+*************************
+What would you like to do?
+1. Look around
+2. Pick up an item
+3. Delete an item
+4. Attack an enemy
+5. View inventory
+6. Move to another place
+7. Quit
+*************************
+Enter choice: 
+Inventory:
+- 1. Aux Power: Sharply boosts the offensive stats of a Pokémon during a battle.
+- 2. Berry Juice: Restores 20 health.
+- 3. Aspear Berry: If held by a Pokémon, it defrosts it.
+
+*************************
+What would you like to do?
+1. Look around
+2. Pick up an item
+3. Delete an item
+4. Attack an enemy
+5. View inventory
+6. Move to another place
+7. Quit
+*************************
+Enter choice: 
+Inventory:
+- 1. Aux Power: Sharply boosts the offensive stats of a Pokémon during a battle.
+- 2. Berry Juice: Restores 20 health.
+- 3. Aspear Berry: If held by a Pokémon, it defrosts it.
+
+Choose the item to delete (0 to cancel): 
+Pikachu deletes Berry Juice.
+
+*************************
+What would you like to do?
+1. Look around
+2. Pick up an item
+3. Delete an item
+4. Attack an enemy
+5. View inventory
+6. Move to another place
+7. Quit
+*************************
+Enter choice: 
+Inventory:
+- 1. Aux Power: Sharply boosts the offensive stats of a Pokémon during a battle.
+- 2. Aspear Berry: If held by a Pokémon, it defrosts it.
+
+*************************
+What would you like to do?
+1. Look around
+2. Pick up an item
+3. Delete an item
+4. Attack an enemy
+5. View inventory
+6. Move to another place
+7. Quit
+*************************
+Enter choice: 
+In Rochester,
+- No items.
+- No enemies.
+
+*************************
+What would you like to do?
+1. Look around
+2. Pick up an item
+3. Delete an item
+4. Attack an enemy
+5. View inventory
+6. Move to another place
+7. Quit
+*************************
+Enter choice: 
+Choose a place to move to (0 to cancel): 
+1. Syracuse
+Pikachu moves to Syracuse
+
+*************************
+What would you like to do?
+1. Look around
+2. Pick up an item
+3. Delete an item
+4. Attack an enemy
+5. View inventory
+6. Move to another place
+7. Quit
+*************************
+Enter choice: 
+In Syracuse,
+- No items.
+- Enemies:
+  - Meowth (Health: 10, Attack Power: 5)
+
+*************************
+What would you like to do?
+1. Look around
+2. Pick up an item
+3. Delete an item
+4. Attack an enemy
+5. View inventory
+6. Move to another place
+7. Quit
+*************************
+Enter choice: 
+Choose an enemy to attack (0 to cancel): 
+1. Meowth
+Pikachu attacks Meowth with power 20
+Meowth has been defeated!
+
+*************************
+What would you like to do?
+1. Look around
+2. Pick up an item
+3. Delete an item
+4. Attack an enemy
+5. View inventory
+6. Move to another place
+7. Quit
+*************************
+Enter choice: 
+In Syracuse,
+- No items.
+- No enemies.
+
+*************************
+What would you like to do?
+1. Look around
+2. Pick up an item
+3. Delete an item
+4. Attack an enemy
+5. View inventory
+6. Move to another place
+7. Quit
+*************************
+Enter choice: 
+Thanks for playing!
